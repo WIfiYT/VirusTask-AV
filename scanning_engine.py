@@ -18,3 +18,4 @@ class FileScanner:
 if __name__ == '__main__':
     scanner = FileScanner('/')  # Change to the desired root directory
     scanner.scan()
+    
